@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: #87CEEB;
+}
+header,nav{
+    background-color: LightBlue;
+    padding: 10px;
+    color: DeepSkyBlue;
+    
+}
+nav a{
+    color: DarkCyan;
+    border:1px solid #00FA9A;
+    padding: 10px;
+}
+h1{
+    color: MidnightBlue;
+    border-bottom: 5px solid MidnightBlue;
+    text-align: center;
+}
+footer{
+    color:royalblue;
+    border: 10px solid DodgerBlue;
+    text-align: center;
+}
